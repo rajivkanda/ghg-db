@@ -2,33 +2,33 @@
   "events": [
     {
       "id": 123,
-      "category": "animal welfare",
-      "title": "Cat Adoption Day",
-      "description": "Find your new feline friend at this event.",
-      "location": "Meow Town",
+      "category": "Test category1",
+      "title": "Test title1",
+      "description": "Test description1.",
+      "location": "Test location1",
       "date": "January 28, 2022",
       "time": "12:00",
-      "organizer": "Kat Laydee"
+      "organizer": "Test organizer1"
     },
     {
       "id": 456,
-      "category": "food",
-      "title": "Community Gardening",
-      "description": "Join us as we tend to the community edible plants.",
-      "location": "Flora City",
+      "category": "Test category2",
+      "title": "Test title2",
+      "description": "Test description2.",
+      "location": "Test location2",
       "date": "March 14, 2022",
       "time": "10:00",
-      "organizer": "Fern Pollin"
+      "organizer": "Test organizer2"
     },
     {
       "id": 789,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Help pick up trash along the shore.",
-      "location": "Playa Del Carmen",
+      "category": "Test category2",
+      "title": "Test title3",
+      "description": "Test description3",
+      "location": "Test location3",
       "date": "July 22, 2022",
       "time": "11:00",
-      "organizer": "Carey Wales"
+      "organizer": "Test organizer3"
     }
   ]
 }
